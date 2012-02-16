@@ -1,7 +1,7 @@
 
 Name: app-organization
 Epoch: 1
-Version: 1.0.2
+Version: 1.0.4
 Release: 1%{dist}
 Summary: Organization
 License: GPLv3
