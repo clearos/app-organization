@@ -1,7 +1,7 @@
 
 Name: app-organization
 Epoch: 1
-Version: 1.0.10
+Version: 1.1.0
 Release: 1%{dist}
 Summary: Organization
 License: GPLv3
@@ -15,7 +15,7 @@ Requires: app-base
 Information about your organization is used to generate security certificates and other software defaults.
 
 %package core
-Summary: Organization - APIs and install
+Summary: Organization - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Requires: app-base-core
