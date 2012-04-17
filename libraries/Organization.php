@@ -104,6 +104,7 @@ class Organization extends Engine
 
     protected $is_loaded = FALSE;
     protected $config = array();
+    protected $config_file = self::FILE_CONFIG;
 
     ///////////////////////////////////////////////////////////////////////////////
     // M E T H O D S
@@ -113,9 +114,11 @@ class Organization extends Engine
      * Organization constructor.
      */
 
-    public function __construct()
+    public function __construct($config_file = self::FILE_CONFIG)
     {
         clearos_profile(__METHOD__, __LINE__);
+
+        $this->config_file = $config_file;
     }
 
     /**
@@ -502,7 +505,7 @@ class Organization extends Engine
         clearos_profile(__METHOD__, __LINE__);
 
         try {
-            $config_file = new Configuration_File(self::FILE_CONFIG);
+            $config_file = new Configuration_File($this->config_file);
             $this->config = $config_file->load();
         } catch (File_Not_Found_Exception $e) {
             // Not fatal
@@ -528,7 +531,7 @@ class Organization extends Engine
 
         $this->is_loaded = FALSE;
 
-        $file = new File(self::FILE_CONFIG);
+        $file = new File($this->config_file);
 
         if (! $file->exists())
             $file->create("root", "root", "0644"); 
