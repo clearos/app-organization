@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = '城市名无效';
 $lang['organization_country'] = '国家';
 $lang['organization_country_invalid'] = '国家名无效';
 $lang['organization_organization'] = '组织';
-$lang['organization_organization'] = '组织';
 $lang['organization_organization_invalid'] = '组织名无效';
 $lang['organization_postal_code'] = '邮政编码';
 $lang['organization_postal_code_invalid'] = '邮政编码无效';

@@ -7,7 +7,6 @@ $lang['organization_city_invalid'] = 'City is invalid.';
 $lang['organization_country'] = 'Country';
 $lang['organization_country_invalid'] = 'Country is invalid.';
 $lang['organization_organization'] = 'Organization';
-$lang['organization_organization'] = 'Organization';
 $lang['organization_organization_invalid'] = 'Organization is invalid.';
 $lang['organization_postal_code'] = 'Postal/Zip Code';
 $lang['organization_postal_code_invalid'] = 'Postal code is invalid.';

@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'Kota tidak benar.';
 $lang['organization_country'] = 'Negara ';
 $lang['organization_country_invalid'] = 'Negara tidak benar.';
 $lang['organization_organization'] = 'Organisasi';
-$lang['organization_organization'] = 'Organisasi';
 $lang['organization_organization_invalid'] = 'Organisasi tidak benar.';
 $lang['organization_postal_code'] = 'Kode pos/Zip';
 $lang['organization_postal_code_invalid'] = 'Kode pos tidak benar.';

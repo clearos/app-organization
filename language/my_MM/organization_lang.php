@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'ျမိဳ႔ေတာ္ မွား�
 $lang['organization_country'] = 'ႏိုင္ငံ';
 $lang['organization_country_invalid'] = 'ႏိုင္ငံမွားယြင္းေနသည္။';
 $lang['organization_organization'] = 'အဖြဲ႔အစည္း';
-$lang['organization_organization'] = 'အဖြဲ႔အစည္း';
 $lang['organization_organization_invalid'] = 'အဖြဲ႔အစည္းမွားယြင္းေနသည္။';
 $lang['organization_postal_code'] = 'စာတိုက္ေသတၱာအမွတ္';
 $lang['organization_postal_code_invalid'] = 'စာတိုက္ေသတၱာအမွတ္မွားယြင္းေနသည္။';

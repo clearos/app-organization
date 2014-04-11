@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'Þehir adý geçerli deðil.';
 $lang['organization_country'] = 'Ülke';
 $lang['organization_country_invalid'] = 'Ülke adý geçerli deðil.';
 $lang['organization_organization'] = 'Kuruluþ/Firma';
-$lang['organization_organization'] = 'Kuruluþ/Firma';
 $lang['organization_organization_invalid'] = 'Kuruluþ/Firma adý geçerli deðil.';
 $lang['organization_postal_code'] = 'Posta/Zip Kodu';
 $lang['organization_postal_code_invalid'] = 'Posta kodu geçerli deðil.';

@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'La ciutat no és vàlida ';
 $lang['organization_country'] = 'Pais';
 $lang['organization_country_invalid'] = 'Pais no vàlid';
 $lang['organization_organization'] = 'Organització';
-$lang['organization_organization'] = 'Organització';
 $lang['organization_organization_invalid'] = 'organització no valida';
 $lang['organization_postal_code'] = 'Codi postal';
 $lang['organization_postal_code_invalid'] = 'Codi postal no vàlid';

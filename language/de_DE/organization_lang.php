@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'Stadt ist ungültig.';
 $lang['organization_country'] = 'Land';
 $lang['organization_country_invalid'] = 'Land ist ungültig.';
 $lang['organization_organization'] = 'Abteilung';
-$lang['organization_organization'] = 'Abteilung';
 $lang['organization_organization_invalid'] = 'Abteilung ist ungültig.';
 $lang['organization_postal_code'] = 'Postleitzahl';
 $lang['organization_postal_code_invalid'] = 'Postleitzahl ist ungültig.';

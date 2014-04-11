@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'Hindi tumpak ang Lungsod.';
 $lang['organization_country'] = 'Bansa';
 $lang['organization_country_invalid'] = 'Hindi tumpak ang Lungsod.';
 $lang['organization_organization'] = 'Samahan';
-$lang['organization_organization'] = 'Samahan';
 $lang['organization_organization_invalid'] = 'Hindi tumpak ang Samahan.';
 $lang['organization_postal_code'] = 'Postal/Zip Code';
 $lang['organization_postal_code_invalid'] = 'Postal code is invalid.';

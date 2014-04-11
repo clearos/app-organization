@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'Cidade Inválida.';
 $lang['organization_country'] = 'País';
 $lang['organization_country_invalid'] = 'País Inválido';
 $lang['organization_organization'] = 'Organização';
-$lang['organization_organization'] = 'Organização';
 $lang['organization_organization_invalid'] = 'Organização Inválida.';
 $lang['organization_postal_code'] = 'CEP';
 $lang['organization_postal_code_invalid'] = 'CEP Inválido.';

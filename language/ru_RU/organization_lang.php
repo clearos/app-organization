@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'Город неверен';
 $lang['organization_country'] = 'Страна';
 $lang['organization_country_invalid'] = 'Страна неверна';
 $lang['organization_organization'] = 'Организация';
-$lang['organization_organization'] = 'Организация';
 $lang['organization_organization_invalid'] = 'Организация неверна';
 $lang['organization_postal_code'] = 'Индекс';
 $lang['organization_postal_code_invalid'] = 'Индекс неверный';

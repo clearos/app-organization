@@ -9,7 +9,6 @@ $lang['organization_city_invalid'] = 'Podana nazwa miasta jest nieprawidłowa.';
 $lang['organization_country'] = 'Kraj';
 $lang['organization_country_invalid'] = 'Podana nazwa kraju jest nieprawidłowa.';
 $lang['organization_organization'] = 'Organizacja';
-$lang['organization_organization'] = 'Organizacja';
 $lang['organization_organization_invalid'] = 'Podana nazwa organizacji jest nieprawidłowa.';
 $lang['organization_postal_code'] = 'Kod pocztowy';
 $lang['organization_postal_code_invalid'] = 'Podany kod pocztowy jest nieprawidłowy.';
