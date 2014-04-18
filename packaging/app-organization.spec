@@ -64,14 +64,11 @@ exit 0
 
 %files
 %defattr(-,root,root)
-/usr/clearos/apps/organization/controllers
 /usr/clearos/apps/organization/htdocs
-/usr/clearos/apps/organization/views
 
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/organization/packaging
-%exclude /usr/clearos/apps/organization/tests
 %dir /usr/clearos/apps/organization
 /usr/clearos/apps/organization/deploy
 /usr/clearos/apps/organization/language
