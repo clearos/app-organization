@@ -1,7 +1,7 @@
 
 Name: app-organization
 Epoch: 1
-Version: 2.1.6
+Version: 2.3.20
 Release: 1%{dist}
 Summary: Organization
 License: GPLv3
@@ -69,6 +69,7 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/organization/packaging
+%exclude /usr/clearos/apps/organization/unify.json
 %dir /usr/clearos/apps/organization
 /usr/clearos/apps/organization/deploy
 /usr/clearos/apps/organization/language
